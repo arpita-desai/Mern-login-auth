@@ -1,2 +1,2 @@
-# mern-login-auth
-Frintend backend login authentication using MERN
+# Mern-login-auth
+Frontend and Backend secure authentication for MERN
